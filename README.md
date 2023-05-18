@@ -12,5 +12,5 @@
 3.显示none的公共课题库在 “公共课题库查找版.docx"中，按ctrl+f 打开查找器进行查找
 
 ### PS：如果遇到运行python脚本时，出现”No module named bs4“或者“not found bs4”， 在vscode终端（或者其他的IDE解释器终端）输入： pip install beautifulsoup4，手动安装这个包即可
-### PS：Filter的安装包已加入
+### PS：Fiddler的安装包已加入
 
