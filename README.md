@@ -13,4 +13,4 @@
 
 ### PS：如果遇到运行python脚本时，出现”No module named bs4“或者“not found bs4”， 在vscode终端（或者其他的IDE解释器终端）输入： pip install beautifulsoup4，手动安装这个包即可
 ### PS：Fiddler的安装包已加入
-
+### PS：由于创高的在线练习有防乱做机制（40分以上才会有“查看答案”的选项），刚开始做题时res.txt没有数据，需要自己认真做到40分以上。待数据库较多时，即可开始暴力刷题。
